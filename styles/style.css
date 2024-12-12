@@ -112,10 +112,10 @@ hr {
     padding: 9px;
 }
 
-#rojo {
+.rojo {
     background-color: red;
 }
 
-#verde {
+.verde {
     background-color: green;
 }
